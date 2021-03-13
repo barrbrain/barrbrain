@@ -1,6 +1,7 @@
 ### David Michael Barr
 
 This is a simple page for teaching purposes for now.
+I have demonstrated cloning locally and editing with VS Code.
 
 <!--
 **barrbrain/barrbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
